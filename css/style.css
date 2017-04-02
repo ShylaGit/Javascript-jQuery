@@ -1,0 +1,19 @@
+#div1 {
+	width: 200px;
+	float: left;
+}
+#again {
+	width: 100px;
+	height: 25px;
+	text-align: center;
+	padding-up: 5px;
+	float:right;
+}
+.hoverOut {
+	color: red;
+	backgroud-color: yellow;
+}
+.hoverIn {
+	color: yellow;
+	background-color: red;
+}
